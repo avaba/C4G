@@ -1,24 +1,25 @@
 {
-  "name": "optimizedhtml",
-  "version": "4.0.0",
-  "description": "OptimizedHTML 4 - Start HTML Template",
+  "name": "c4g",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "WebDesign Master",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avaba/C4G.git"
+  },
+  "author": "avaba",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avaba/C4G/issues"
+  },
+  "homepage": "https://github.com/avaba/C4G#readme",
   "devDependencies": {
-    "browser-sync": "^2.24.7",
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^6.0.0",
-    "gulp-clean-css": "^3.10.0",
-    "gulp-concat": "^2.6.1",
-    "gulp-notify": "^3.2.0",
-    "gulp-rename": "^1.4.0",
-    "gulp-rsync": "0.0.8",
-    "gulp-sass": "^4.0.1",
-    "gulp-uglify": "^3.0.1",
-    "gulp-util": "^3.0.8"
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "browser-sync": "^2.24.7"
   }
 }
