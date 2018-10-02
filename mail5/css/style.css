@@ -1,0 +1,44 @@
+body { font-family: "Arial", sans-serif; font-size: 16px; background: url(../img/bg.jpg) no-repeat; background-size: cover; color: #fff; margin: 0; }
+
+.container { width: 600px; display: block; margin: 0 auto; }
+
+.text-center { text-align: center; }
+
+.btn { background: #f7d100 url(../img/btn.jpg) no-repeat; background-size: cover; background-position: center top; display: inline-block; padding: 16px 70px; border-radius: 3px; text-transform: uppercase; text-decoration: none; color: #161b21; font-weight: bold; }
+.btn:hover { background: #f7d100; }
+
+hr { border-color: #1d8ef1; margin: 0px 30px; border-width: 1px; border-top: 1px solid #1d8ef1; border-bottom: 0; }
+
+a { color: #1d8ef1; text-decoration: underline; }
+
+h2 { color: #f7d100; font-size: 22px; font-weight: normal; text-align: center; margin-top: 0; }
+
+h3 { margin-top: 0; }
+
+footer { padding-bottom: 50px; }
+footer a { display: inline-block; font-size: 18px; }
+footer p { font-size: 14px; }
+footer p a { font-size: 14px; color: #fff; }
+footer hr { margin: 0px 150px; margin-top: 30px; margin-bottom: 20px; }
+
+.clear { clear: both; }
+
+.logo-fot img { margin-bottom: -30px; }
+
+.social-link { margin-top: 20px; }
+.social-link a { margin: 0 5px; }
+
+.main { border: 1px solid #1d8ef1; margin-top: 50px; }
+
+.banner { background: url(../img/banner.png) no-repeat; background-size: cover; background-position: 50%; padding: 200px 0; margin-top: -100px; margin-bottom: -130px; }
+.banner h1 { font-size: 30px; line-height: 37px; color: #ffffff; font-weight: bold; text-transform: uppercase; margin-top: 0; margin-bottom: 20px; }
+
+.text { padding: 30px; padding-top: 40px; }
+
+.item-img { padding: 0 30px; position: relative; overflow: hidden; padding-left: 100px; margin-bottom: 30px; min-height: 40px; }
+.item-img:last-of-type { margin-bottom: 60px; }
+.item-img img { display: inline-block; float: left; position: absolute; left: 30px; top: 0; }
+.item-img .yellow { color: #f7d100; display: block; }
+.item-img p { display: inline-block; float: left; margin: 0; line-height: 24px; }
+
+p { line-height: 24px; }
